@@ -2,7 +2,7 @@
 <h3 align="center">A Front & Backend Developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **React and Flutter**
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at [leulex.lk](https://github.com/LEULEX-404)
 - 📫 How to reach me: **miyurut20@gmail.com**
 
 ---
