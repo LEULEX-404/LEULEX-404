@@ -69,14 +69,6 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tharuka's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=LEULEX-404&show_icons=true&count_private=true&theme=default&hide_border=true" height="192px"/></a>
-    </p>
-
-  <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tharuka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEULEX-404&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a> </p>
-  <br/>
+![LEULEX-404's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEULEX-404&show_icons=true&theme=radical)
