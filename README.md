@@ -5,10 +5,10 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 I’m currently learning **React & Flutter**  
-- 💻 All of my projects are available at 👉 [**GitHub - LEULEX-404**](https://github.com/LEULEX-404)  
+- 🌱 Currently learning **React & Flutter**  
+- 💻 Explore all my projects 👉 [**GitHub - LEULEX-404**](https://github.com/LEULEX-404)  
 - 📫 Reach me at: **miyurut20@gmail.com**  
-- ⚡ Fun fact: I love turning ☕ coffee into code & ideas into products  
+- ⚡ Fun fact: Turning ☕ into code since day one!  
 
 ---
 
@@ -22,26 +22,47 @@
 ---
 
 ### 🛠️ Languages and Tools  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mysql,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LEULEX-404&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LEULEX-404&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEULEX-404&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LEULEX-404&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEULEX-404&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
-### 🚀 Profile Trophies  
+### 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LEULEX-404&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🔥 Cool Features  
+
+#### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LEULEX-404/LEULEX-404/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
+#### 📌 Pinned Projects  
+<p align="center">
+  <a href="https://github.com/LEULEX-404/your-best-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LEULEX-404&repo=your-best-project&theme=radical" />
+  </a>
+  <a href="https://github.com/LEULEX-404/another-cool-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LEULEX-404&repo=another-cool-project&theme=radical" />
+  </a>
+</p>
+
+#### 🌌 3D Activity Graph  
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -53,4 +74,4 @@
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨  
+✨ *“Code is like magic – the more you practice, the stronger you get.”* ✨  
