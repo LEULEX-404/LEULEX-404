@@ -44,23 +44,7 @@
 
 ---
 
-### 🏆 Achievements & Activity  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LEULEX-404&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEULEX-404&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-### 🐍 Fun Touch  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LEULEX-404/LEULEX-404/output/dist/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 ### 👀 Visitors Count  
 <p align="center">
