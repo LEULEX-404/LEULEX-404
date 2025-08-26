@@ -47,7 +47,7 @@
 
 #### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LEULEX-404/LEULEX-404/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://github.com/LEULEX-404/LEULEX-404/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 #### 📌 Pinned Projects  
@@ -60,9 +60,9 @@
   </a>
 </p>
 
-#### 🌌 3D Activity Graph  
+#### 🌌 Activity Graph  
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEULEX-404&theme=radical" alt="activity graph"/>
 </p>
 
 ---
