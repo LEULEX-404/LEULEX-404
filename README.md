@@ -39,10 +39,8 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LEULEX-404&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEULEX-404&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170"/>
-
   <a href="https://github.com/LEULEX-404/your-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LEULEX-404&repo=your-project&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEULEX-404&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170"/>
 </a>
 
 </p>
